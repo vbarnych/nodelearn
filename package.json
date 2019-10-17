@@ -1,0 +1,32 @@
+{
+  "name": "nodelearn",
+  "version": "1.0.0",
+  "description": "learning nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbarnych/nodelearn.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "first_server"
+  ],
+  "author": "Vitaliy Barnych <vitaliybarnich2002@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbarnych/nodelearn/issues"
+  },
+  "homepage": "https://github.com/vbarnych/nodelearn#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.1",
+    "prettier": "^1.18.2"
+  }
+}
