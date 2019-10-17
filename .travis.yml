@@ -2,7 +2,8 @@ language: node_js
 node_js:
   - 10
 script:
-  - make lint
-  - make test
-notifications:
-  email: false
+  - npm run lint
+  - npm run deploy
+branches:
+  only:
+    - master
