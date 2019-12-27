@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "nodetest-kpi"
+    "default": "mathoperations-b8ffc",
+    "staging": "laba1host"
   }
 }
